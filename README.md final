@@ -5,6 +5,7 @@ Tanggal: 25 April 2026
 
 Parameter Personalisasi Utama Sebelum memulai perhitungan, seluruh variabel dasar ditentukan berdasarkan 
 NIM (32) N = 32, a = 3, b = 2 K = 6 (3 + 2 + 1) theta_0 = 100 (a X 30) + (b X 5), alpha = 0,003 Learning rate untuk optimasi dari 0,001 X (b + 1).
+
 Soal 1: Eksplorasi Data Transaksi
 Data pembentukan toko D_i dihitung menggunakan rumus 20 + (K X i) + ((a X i) mod 7) - ((b X i) mod 5).
 Himpunan Data: {27, 34, 39, 46, 51, 58, 58}.
