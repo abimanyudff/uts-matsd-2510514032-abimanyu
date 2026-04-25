@@ -32,7 +32,7 @@ Limit Tak Hingga: Menghitung nilai steady-state pendapatan bulanan ketika n to i
 Kekontinuan: Menentukan nilai p dan q agar fungsi biaya distribusi per unit bersifat kontinu tanpa lonjakan harga pada titik batas.
 
 Soal 6: Optimasi Profit (Gradient Descent)Menentukan harga optimal produk menggunakan model profit polimial derajat tiga.
-Titik Kritis: Ditemukan melalui turunan pertama $\pi'(x) = 0$ menggunakan rumus kuadrat untuk mencari harga dengan profit maksimum.
+Titik Kritis: Ditemukan melalui turunan pertama pi'(x) = 0 menggunakan rumus kuadrat untuk mencari harga dengan profit maksimum.
 Iterasi: Melakukan 5 langkah manual pembaruan harga menggunakan algoritma Gradient Descent dengan alpha = 0,003.
 Hasil Bisnis: Menghitung margin per unit pada harga optimal untuk memastikan strategi harga berkelanjutan.
 
