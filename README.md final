@@ -18,12 +18,12 @@ Matriks A: 4 2 2
            2 1 6
 Metode: Enkripsi dilakukan dengan perkalian matriks E = A X P, di mana dekripsi membutuhkan perhitungan invers matriks A^{-1} melalui metode kofaktor dan adjoin.
 
-Soal 3: Himpunan dan Fungsi HargaAnalisis dilakukan terhadap tiga kanal akuisisi pelanggan berdasarkan nilai N=32.
+Soal 3: Himpunan dan Fungsi Harga Analisis dilakukan terhadap tiga kanal akuisisi pelanggan berdasarkan nilai N=32.
 Himpunan Pelanggan: Menentukan irisan dan gabungan pelanggan dari media sosial (A), referral (B), dan loyalty program (C).
 Fungsi Harga: Menemukan komposisi fungsi (f o g)(x) untuk menentukan harga eceran dengan biaya tambahan volume.
 Hasil: Komposisi fungsi tersebut tidak bersifat komutatif, yang dibuktikan dengan uji numerik pada x = b+2.
 
-Soal 4: Analisis Fasor PenjualanModel fluktuasi mingguan direpresentasikan sebagai bilangan kompleks z_1 (produk unggulan) dan z_2 (pesaing).
+Soal 4: Analisis Fasor Penjualan Model fluktuasi mingguan direpresentasikan sebagai bilangan kompleks z_1 (produk unggulan) dan z_2 (pesaing).
 Bentuk Kutub: Mengonversi z_1 = 5 + 3i ke bentuk r X cis(0) untuk melihat fase penjualan.
 De Moivre: Menghitung pangkat z_1)^4 secara manual dan memverifikasi hasilnya di MATLAB.
 Aplikasi: Fase arg(z_1/z_2) digunakan untuk menganalisis selisih waktu puncak penjualan antar produk.
@@ -37,7 +37,7 @@ Titik Kritis: Ditemukan melalui turunan pertama pi'(x) = 0 menggunakan rumus kua
 Iterasi: Melakukan 5 langkah manual pembaruan harga menggunakan algoritma Gradient Descent dengan alpha = 0,003.
 Hasil Bisnis: Menghitung margin per unit pada harga optimal untuk memastikan strategi harga berkelanjutan.
 
-Soal 7: Forecasting PenjualanData historis 12 bulan terakhir dimodelkan untuk memprediksi tren masa depan.
+Soal 7: Forecasting Penjualan Data historis 12 bulan terakhir dimodelkan untuk memprediksi tren masa depan.
 Pola: Penjualan merupakan barisan aritmatika yang bercampur dengan osilasi (-1)^n.
 Prediksi: Menggunakan fungsi polyfit di MATLAB untuk mendapatkan garis tren linear dan memproyeksikan penjualan untuk 6 bulan ke depan (S_13 hingga S_18).
 Evaluasi: Menghitung MAE untuk menilai keakuratan model linear terhadap fluktuasi musiman.
